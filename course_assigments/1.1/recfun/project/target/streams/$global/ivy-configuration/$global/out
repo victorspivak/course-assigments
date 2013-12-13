@@ -1,0 +1,11 @@
+[debug] Other repositories:
+[debug] Default repositories:
+[debug] 	Raw(ProjectResolver(inter-project, mapped: default#default-f135f1;0.0))
+[debug] 	URLRepository(typesafe-ivy-releases,sbt.Patterns@33b2e7)
+[debug] 	URLRepository(sbt-plugin-releases,sbt.Patterns@268c02)
+[debug] 	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@1af94e2)
+[debug] 	namin.github.com/maven-repository: http://namin.github.com/maven-repository/
+[debug] 	Spray Repository: http://repo.spray.cc/
+[debug] 	Sonatype snapshots: http://oss.sonatype.org/content/repositories/snapshots/
+[debug] 	public: http://repo1.maven.org/maven2/
+[debug] Using inline dependencies specified in Scala.

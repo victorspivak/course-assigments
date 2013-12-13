@@ -1,0 +1,4 @@
+[debug] Running Test forcomp.AnagramsSuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 11, Failed 0, Errors 0, Passed 11, Skipped 0
+[debug] Passed tests:
+[debug] 	forcomp.AnagramsSuite

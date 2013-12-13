@@ -1,0 +1,12 @@
+[info] Running simulations.gui.EpidemyDisplay 
+[debug] Starting sandboxed run...
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main to exit
+[debug]   Classpath:
+[debug] 	D:\___scala\course_assigments_reactive_programming\simulations\target\scala-2.10\classes
+[debug] 	C:\Users\victor\.sbt\boot\scala-2.10.2\lib\scala-library.jar
+[debug] 	D:\___scala\course_assigments_reactive_programming\simulations\lib_managed\jars\org.scalacheck\scalacheck_2.10\scalacheck_2.10-1.10.1.jar
+[debug] 	D:\___scala\course_assigments_reactive_programming\simulations\lib_managed\jars\org.scala-tools.testing\test-interface\test-interface-0.5.jar
+[debug] 	D:\___scala\course_assigments_reactive_programming\simulations\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.1.jar
+[debug] 	Thread run-main exited.
+[debug] Waiting for thread AWT-EventQueue-0 to exit

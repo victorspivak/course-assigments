@@ -1,0 +1,33 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(D:\___scala\course_assigments_reactive_programming\simulations\src\main\scala\simulations\gui\EpidemyDisplay.scala)
+[debug] Removed products: Set()
+[debug] Modified external sources: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(D:\___scala\course_assigments_reactive_programming\simulations\src\main\scala\simulations\gui\EpidemyDisplay.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\___scala\course_assigments_reactive_programming\simulations\src\main\scala\simulations\gui\EpidemyDisplay.scala)
+[info] Compiling 1 Scala source to D:\___scala\course_assigments_reactive_programming\simulations\target\scala-2.10\classes...
+[debug] Running cached compiler 2246cb, interfacing (CompilerInterface) with Scala compiler version 2.10.2
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-feature
+[debug] 	-d
+[debug] 	D:\___scala\course_assigments_reactive_programming\simulations\target\scala-2.10\classes
+[debug] 	-bootclasspath
+[debug] 	C:\Tools\Java\jdk1.7.0_17\jre\lib\resources.jar;C:\Tools\Java\jdk1.7.0_17\jre\lib\rt.jar;C:\Tools\Java\jdk1.7.0_17\jre\lib\sunrsasign.jar;C:\Tools\Java\jdk1.7.0_17\jre\lib\jsse.jar;C:\Tools\Java\jdk1.7.0_17\jre\lib\jce.jar;C:\Tools\Java\jdk1.7.0_17\jre\lib\charsets.jar;C:\Tools\Java\jdk1.7.0_17\jre\lib\jfr.jar;C:\Tools\Java\jdk1.7.0_17\jre\classes;C:\Users\victor\.sbt\boot\scala-2.10.2\lib\scala-library.jar
+[debug] 	-classpath
+[debug] 	D:\___scala\course_assigments_reactive_programming\simulations\target\scala-2.10\classes;D:\___scala\course_assigments_reactive_programming\simulations\lib_managed\jars\org.scalacheck\scalacheck_2.10\scalacheck_2.10-1.10.1.jar;D:\___scala\course_assigments_reactive_programming\simulations\lib_managed\jars\org.scala-tools.testing\test-interface\test-interface-0.5.jar;D:\___scala\course_assigments_reactive_programming\simulations\lib_managed\jars\org.scala-lang\scala-actors\scala-actors-2.10.1.jar
+[debug] Scala compilation took 2.245563131 s
+[debug] Step 2 changed sources and immdediate dependencies:
+[debug] 	Set()
+[debug] Non-trivial strongly connected components: 
+[debug] 	
+[debug] Step 2 invalidated sources:
+[debug] 	Set()

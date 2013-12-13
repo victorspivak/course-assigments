@@ -1,0 +1,4 @@
+[debug] Running Test objsets.TweetSetSuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 7, Failed 0, Errors 0, Passed 7, Skipped 0
+[debug] Passed tests:
+[debug] 	objsets.TweetSetSuite

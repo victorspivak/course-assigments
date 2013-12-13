@@ -1,0 +1,12 @@
+[info] AnagramsSuite:
+[info] - wordOccurrences: abcd
+[info] - wordOccurrences: Robert
+[info] - sentenceOccurrences: abcd e
+[info] - dictionaryByOccurrences.get: eat
+[info] - word anagrams: married
+[info] - word anagrams: player
+[info] - subtract: lard - r
+[info] - combinations: []
+[info] - combinations: abba
+[info] - sentence anagrams: []
+[info] - sentence anagrams: Linux rulez

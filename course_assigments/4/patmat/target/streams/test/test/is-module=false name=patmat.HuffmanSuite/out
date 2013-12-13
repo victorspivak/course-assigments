@@ -1,0 +1,7 @@
+[info] HuffmanSuite:
+[info] - weight of a larger tree
+[info] - chars of a larger tree
+[info] - string2chars("hello, world")
+[info] - makeOrderedLeafList for some frequency table
+[info] - combine of some leaf list
+[info] - decode and encode a very short text should be identity

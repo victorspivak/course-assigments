@@ -1,0 +1,5 @@
+[info] BalanceSuite:
+[info] - balance: '(if (zero? x) max (/ 1 x))' is balanced
+[info] - balance: 'I told him ...' is balanced
+[info] - balance: ':-)' is unbalanced
+[info] - balance: counting is not enough

@@ -1,0 +1,13 @@
+[info] Packaging D:\___scala\course_assigments_reactive_programming\kvstore\target\scala-2.10\progfun-kvstore_2.10-1.0.0.jar ...
+[debug] Input file mappings:
+[debug] 	kvstore\Replicator.scala
+[debug] 	  D:\___scala\course_assigments_reactive_programming\kvstore\src\main\scala\kvstore\Replicator.scala
+[debug] 	kvstore\Arbiter.scala
+[debug] 	  D:\___scala\course_assigments_reactive_programming\kvstore\src\main\scala\kvstore\Arbiter.scala
+[debug] 	common\package.scala
+[debug] 	  D:\___scala\course_assigments_reactive_programming\kvstore\src\main\scala\common\package.scala
+[debug] 	kvstore\Persistence.scala
+[debug] 	  D:\___scala\course_assigments_reactive_programming\kvstore\src\main\scala\kvstore\Persistence.scala
+[debug] 	kvstore\Replica.scala
+[debug] 	  D:\___scala\course_assigments_reactive_programming\kvstore\src\main\scala\kvstore\Replica.scala
+[info] Done packaging.

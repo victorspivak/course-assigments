@@ -1,0 +1,10 @@
+[info] + Heap.min1: OK, passed 100 tests.
+[info] + Heap.min2: OK, passed 100 tests.
+[info] + Heap.min3: OK, passed 100 tests.
+[info] + Heap.min4: OK, passed 100 tests.
+[info] + Heap.deleteMin1: OK, passed 100 tests.
+[info] + Heap.deleteMin2: OK, passed 100 tests.
+[info] + Heap.deleteMin3: OK, passed 100 tests.
+[info] + Heap.meld1: OK, passed 100 tests.
+[info] + Heap.meld2: OK, passed 100 tests.
+[info] + Heap.meld3: OK, passed 100 tests.

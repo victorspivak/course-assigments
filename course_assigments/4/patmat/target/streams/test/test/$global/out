@@ -1,0 +1,4 @@
+[debug] Running Test patmat.HuffmanSuite : subclass(false, org.scalatest.Suite) with arguments 
+[info] Passed: : Total 6, Failed 0, Errors 0, Passed 6, Skipped 0
+[debug] Passed tests:
+[debug] 	patmat.HuffmanSuite
