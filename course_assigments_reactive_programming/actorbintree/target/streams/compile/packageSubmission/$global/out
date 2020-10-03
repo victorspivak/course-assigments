@@ -1,9 +1,0 @@
-[info] Packaging D:\___scala\course_assigments_reactive_programming\actorbintree\target\scala-2.10\progfun-actorbintree_2.10-1.0.0.jar ...
-[debug] Input file mappings:
-[debug] 	actorbintree\BinaryTreeSet.scala
-[debug] 	  D:\___scala\course_assigments_reactive_programming\actorbintree\src\main\scala\actorbintree\BinaryTreeSet.scala
-[debug] 	actorbintree\MyTest.scala
-[debug] 	  D:\___scala\course_assigments_reactive_programming\actorbintree\src\main\scala\actorbintree\MyTest.scala
-[debug] 	common\package.scala
-[debug] 	  D:\___scala\course_assigments_reactive_programming\actorbintree\src\main\scala\common\package.scala
-[info] Done packaging.

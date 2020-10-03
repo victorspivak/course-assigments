@@ -1,7 +1,0 @@
-[info] Packaging D:\___scala\course_assigments\4\patmat\target\scala-2.10\progfun-patmat_2.10-1.0.0.jar ...
-[debug] Input file mappings:
-[debug] 	common\package.scala
-[debug] 	  D:\___scala\course_assigments\4\patmat\src\main\scala\common\package.scala
-[debug] 	patmat\Huffman.scala
-[debug] 	  D:\___scala\course_assigments\4\patmat\src\main\scala\patmat\Huffman.scala
-[info] Done packaging.

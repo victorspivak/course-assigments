@@ -1,4 +1,0 @@
-[info] Step6_NewSecondarySpec:
-[info] - case1: Primary must start replication to new replicas
-[info] - case2: Primary must stop replication to removed replicas and stop Replicator
-[info] - case3: Primary must stop replication to removed replicas and waive their outstanding acknowledgements

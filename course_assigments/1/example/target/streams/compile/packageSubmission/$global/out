@@ -1,7 +1,0 @@
-[info] Packaging D:\___scala\course_assigments\1\example\target\scala-2.10\progfun-example_2.10-1.0.0.jar ...
-[debug] Input file mappings:
-[debug] 	common\package.scala
-[debug] 	  D:\___scala\course_assigments\1\example\src\main\scala\common\package.scala
-[debug] 	example\Lists.scala
-[debug] 	  D:\___scala\course_assigments\1\example\src\main\scala\example\Lists.scala
-[info] Done packaging.

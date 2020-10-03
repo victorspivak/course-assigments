@@ -1,8 +1,0 @@
-[debug] Running Test recfun.CountChangeSuite : subclass(false, org.scalatest.Suite) with arguments 
-[debug] Running Test recfun.BalanceSuite : subclass(false, org.scalatest.Suite) with arguments 
-[debug] Running Test recfun.PascalSuite : subclass(false, org.scalatest.Suite) with arguments 
-[info] Passed: : Total 11, Failed 0, Errors 0, Passed 11, Skipped 0
-[debug] Passed tests:
-[debug] 	recfun.PascalSuite
-[debug] 	recfun.CountChangeSuite
-[debug] 	recfun.BalanceSuite
